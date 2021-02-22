@@ -1,0 +1,22 @@
+{
+  "name": "shelter",
+  "version": "1.0.0",
+  "description": "ferst version",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/dmitry-sokolovsky-JS2020Q3.git"
+  },
+  "keywords": [
+    "shelter"
+  ],
+  "author": "Dmitry Sokolovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/dmitry-sokolovsky-JS2020Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/dmitry-sokolovsky-JS2020Q3#readme"
+}
