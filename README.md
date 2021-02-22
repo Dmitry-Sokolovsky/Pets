@@ -1,4 +1,4 @@
 # Pets
 This is website about pets.
 
-Demo: https://dmitry-sokolovsky.github.io/Pets/
+Demo: https://dmitry-sokolovsky.github.io/Pets/pages/main/
